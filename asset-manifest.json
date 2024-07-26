@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/mauweb/static/css/main.f473cd95.css",
+    "main.js": "/mauweb/static/js/main.ff4ce707.js",
+    "static/js/787.d4aba7ab.chunk.js": "/mauweb/static/js/787.d4aba7ab.chunk.js",
+    "static/media/test1.jpg": "/mauweb/static/media/test1.72a13f050e8b2fd336f4.jpg",
+    "static/media/channels4_profile.jpg": "/mauweb/static/media/channels4_profile.fae525ae6907a665774e.jpg",
+    "index.html": "/mauweb/index.html",
+    "main.f473cd95.css.map": "/mauweb/static/css/main.f473cd95.css.map",
+    "main.ff4ce707.js.map": "/mauweb/static/js/main.ff4ce707.js.map",
+    "787.d4aba7ab.chunk.js.map": "/mauweb/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f473cd95.css",
+    "static/js/main.ff4ce707.js"
+  ]
+}
